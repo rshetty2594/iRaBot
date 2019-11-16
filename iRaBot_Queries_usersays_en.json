@@ -1,0 +1,81 @@
+[
+  {
+    "id": "4e906a3a-d0ec-4b89-86f6-21165a65185b",
+    "data": [
+      {
+        "text": "ira",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa8ca23b-5348-412e-8f7c-77f668312319",
+    "data": [
+      {
+        "text": "rabot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "82f49045-85ad-4240-8514-e732dabc2e16",
+    "data": [
+      {
+        "text": "robot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "687ff105-9b1d-4220-88e9-106649a0f66e",
+    "data": [
+      {
+        "text": "what is irabot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "adec0fc8-8901-4232-8120-5000b18d7831",
+    "data": [
+      {
+        "text": "iRaBot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11c39d24-e000-4be7-b5b8-2836529b306c",
+    "data": [
+      {
+        "text": "irobot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1afb294-1869-4a19-9ae5-1833a1f1313c",
+    "data": [
+      {
+        "text": "IRABT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

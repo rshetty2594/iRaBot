@@ -1,0 +1,37 @@
+{
+  "id": "c4417798-2cfc-44b5-ba37-afdddab4b990",
+  "name": "Project_Manager_Query",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "project_manager_query",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c1dc4335-50f5-4c55-a1af-ab9b6f68e706",
+          "required": false,
+          "dataType": "@project_manager",
+          "name": "project_manager",
+          "value": "$project_manager",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can find the Skunkworks work progress here - https://github.com/skunkworksneu/Projects"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ff0b2481-6a40-4463-98a5-f96ebe1983d8",
+  "name": "Project_Query",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7f6ae2ba-a5e7-45aa-845f-412c8b2b7c73",
+          "required": true,
+          "dataType": "@skunkwork",
+          "name": "skunkwork",
+          "value": "$skunkwork",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sure! Let me guide you through some cool Skunkwork projects! Here\u0027s the list - \n1) Social Butterfly\n\n2) Al-Addin\n\n3) Hyperparameter Databases\n\n4) Capsule Networks\n\nWhich one do you like?"
+            },
+            {
+              "lang": "en",
+              "value": "Here are some popular projects you could pick -\n1) Social Butterfly\n\n2) Al-Addin\n\n3) Hyperparameter Databases\n\n4) Capsule Networks\n\nWhich one would you like to proceed with?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "You have chosen a $skunkwork project",
+            "$skunkwork! Smart choice! Have fun working on your project",
+            "Good luck! You have chosen $skunkwork project",
+            "$skunkwork? Interesting!",
+            "$skunkwork? That\u0027s my personal favorite. Smart choice!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

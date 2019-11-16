@@ -1,0 +1,38 @@
+{
+  "id": "fb7a0015-f9e7-4928-b271-c96502dfc12f",
+  "name": "iRaBot_Queries",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cd16a8a0-b5a5-47f9-b384-4d833679187b",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hi, I am iRaBot, your personal assistant to guide you through the AI Skunkworks project and answer any queries you have about it. I am happy to help you!"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

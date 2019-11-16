@@ -1,0 +1,27 @@
+{
+  "id": "433fe1dd-5731-4c0c-8a1a-7cc7767a687d",
+  "name": "AI_Skunkworks_Query",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A skunkworks project is a project developed by a small and loosely structured group of people who research and develop a project primarily for the sake of radical innovation. AI Skunkworks at Northeastern University is a group of people who research and develop Artificial Intelligence, Machine Learning, and Deep Learning projects primarily for the sake of innovation and learning. We provide open-mic, mentorship, workshops, seminars, hack-a-thons, and events that assist those exploring the edges of AI in the process of entering data related competitions.\n\nGo to their organization portal here - https://orgsync.com/180975/chapter\nWebsite - https://github.com/skunkworksneu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

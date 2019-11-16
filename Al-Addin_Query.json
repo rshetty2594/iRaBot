@@ -1,0 +1,35 @@
+{
+  "id": "6f22b52a-8759-4935-958d-10ad1068b80e",
+  "name": "Al-Addin_Query",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "91a488b7-dbc6-4bc3-aa57-ecc821ee21fd",
+          "dataType": "@skunkwork",
+          "name": "skunkwork",
+          "value": "$skunkwork",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

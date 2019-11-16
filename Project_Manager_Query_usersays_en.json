@@ -1,0 +1,125 @@
+[
+  {
+    "id": "c882a945-a4e1-4115-9a72-7013410d4d34",
+    "data": [
+      {
+        "text": "what is the progress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "636c6edf-3a47-4f95-9c1b-c1268cb1b874",
+    "data": [
+      {
+        "text": "what kind of work is done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9edf4549-c908-4e89-991f-427444ec2596",
+    "data": [
+      {
+        "text": "how much work is done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2cdfd84d-cebf-463b-af9b-60c125e9e15e",
+    "data": [
+      {
+        "text": "what work is done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f911fb5b-a8b4-413c-9679-c59df7960a03",
+    "data": [
+      {
+        "text": "What work has been done till now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a20fd450-3fbc-4f3a-9982-0ab4bf02684d",
+    "data": [
+      {
+        "text": "who is the project manager for ",
+        "userDefined": false
+      },
+      {
+        "text": "capsule networks",
+        "alias": "project_manager",
+        "meta": "@project_manager",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f34d3353-573e-472b-83ba-e55d6155168d",
+    "data": [
+      {
+        "text": "who is the project manager for ",
+        "userDefined": false
+      },
+      {
+        "text": "hyperparameter database",
+        "alias": "project_manager",
+        "meta": "@project_manager",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0189df31-c81a-423c-9d8e-5b0455cea0fc",
+    "data": [
+      {
+        "text": "who is the project manager for ",
+        "userDefined": false
+      },
+      {
+        "text": "al-addin",
+        "alias": "project_manager",
+        "meta": "@project_manager",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db52f0d7-2a7d-46d4-88fb-8fea83b616b8",
+    "data": [
+      {
+        "text": "Who is the project manager for ",
+        "userDefined": false
+      },
+      {
+        "text": "social butterfly",
+        "alias": "project_manager",
+        "meta": "@project_manager",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

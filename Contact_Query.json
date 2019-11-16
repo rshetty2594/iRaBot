@@ -1,0 +1,37 @@
+{
+  "id": "e78085eb-0db9-4492-9078-a232f968a4eb",
+  "name": "Contact_Query",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "contact_query",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "53ae16f7-5806-4ad8-816a-97d9fbb43ec0",
+          "required": false,
+          "dataType": "@contact_info",
+          "name": "contact_info",
+          "value": "$contact_info",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is where you can reach out to the skunks - \nLinkedIn handle - skunkworksneu \nhttps://www.linkedin.com/company/skunkworksneu/\n\nTwitter handle - @skunkworksneu \nhttps://twitter.com/skunkworksneu\n\nhttps://github.com/skunkworksneu/Projects"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

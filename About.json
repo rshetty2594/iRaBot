@@ -1,0 +1,37 @@
+{
+  "id": "ab54323d-e34a-447e-b7a3-f54e1b4a8925",
+  "name": "About",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get_results",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f6772b72-eaaf-40b0-934b-85a723894126",
+          "required": false,
+          "dataType": "@skunkwork",
+          "name": "skunkwork",
+          "value": "$skunkwork",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To become a part of the AI Skunkworks project, please follow the link attached and contact the respective project managers -\nhttps://github.com/skunkworksneu/Projects"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

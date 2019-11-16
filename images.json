@@ -1,0 +1,31 @@
+{
+  "id": "ebc135d9-6b1d-4861-9ab0-5a0c991a9f71",
+  "name": "images",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "slack",
+          "lang": "en",
+          "imageUrl": "https://pics.me.me/looking-at-your-gpa-like-gpa-meme-28826659.png"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": false,
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "958e8b63-ebe0-4497-8818-2256372cf776",
+    "data": [
+      {
+        "text": "when do you open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a284f47-5cda-4829-8e51-58b056f18f37",
+    "data": [
+      {
+        "text": "what are your office hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1149bb5-7e41-4616-9da9-d9d407ddd6e1",
+    "data": [
+      {
+        "text": "what are your hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13f76ab9-9ecf-490f-84c0-2a94924e7270",
+    "data": [
+      {
+        "text": "how late can i come in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f6d10ff-66d1-4184-9d0f-f55818709fe8",
+    "data": [
+      {
+        "text": "what time is the office available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
